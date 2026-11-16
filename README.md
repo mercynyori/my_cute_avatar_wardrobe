@@ -3,7 +3,7 @@ This is a avatar-digital wardrobe to play dress-up with my avatar. I used HTML/C
 
 A little digital dress-up game. Dress up a cute avatar, make her dance and play music!
 
-Open it here: https://claude.ai/artifact/C88pLuRXKBQBx3fA1EbxjS
+Click it here :https://mercynyori.github.io/my_cute_avatar_wardrobe/
 
 ## How to use
 
